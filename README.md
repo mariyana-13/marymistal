@@ -1,2 +1,0 @@
-# marymistal
-code
